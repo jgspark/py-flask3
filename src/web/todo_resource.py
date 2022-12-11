@@ -36,6 +36,7 @@ class TodoResource(Resource):
 
     def put(self, todo_id):
         try:
+            __checked_todo_index__(todo_id=todo_id)
             body = parser.parse_args()
         except Exception as e:
             return {"error": str(e)}
