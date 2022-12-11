@@ -23,3 +23,8 @@ cd venv/bin & pip3 install {lib_name}
 ### Flask Example Code 
 
 * [flask example code](flask-restful.readthedocs.io/en/latest/)
+
+
+### wiki 
+
+* wiki wirte [this url](https://github.com/jgspark/py-flask3/wiki)
