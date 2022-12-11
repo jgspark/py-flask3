@@ -1,7 +1,7 @@
 
 
 
-### active ven 
+### activate virtualenv 
 
 * use to root project
 
